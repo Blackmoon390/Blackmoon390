@@ -56,22 +56,21 @@ Passionate about building **real-world AI systems** using Deep Learning, Compute
 
 <p align="center">
 
-<!-- Python -->
-<img src="https://progress-bar.dev/92/?scale=100&title=Python&width=500&color=babaca&suffix=%" />
+<img src="https://img.shields.io/badge/Python-92%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br>
 
-<!-- Computer Vision -->
-<img src="https://progress-bar.dev/90/?scale=100&title=Computer%20Vision&width=500&color=babaca&suffix=%" />
+<img src="https://img.shields.io/badge/Computer%20Vision-90%25-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<br>
 
-<!-- Deep Learning -->
-<img src="https://progress-bar.dev/85/?scale=100&title=Deep%20Learning&width=500&color=babaca&suffix=%" />
+<img src="https://img.shields.io/badge/Deep%20Learning-85%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<br>
 
-<!-- OpenCV -->
-<img src="https://progress-bar.dev/88/?scale=100&title=OpenCV&width=500&color=babaca&suffix=%" />
+<img src="https://img.shields.io/badge/OpenCV-88%25-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+<br>
 
-<!-- Embedded AI -->
-<img src="https://progress-bar.dev/75/?scale=100&title=Embedded%20AI&width=500&color=babaca&suffix=%" />
+<img src="https://img.shields.io/badge/Embedded%20AI-75%25-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<br>
 
-<!-- Model Deployment -->
-<img src="https://progress-bar.dev/80/?scale=100&title=Model%20Deployment&width=500&color=babaca&suffix=%" />
+<img src="https://img.shields.io/badge/Model%20Deployment-80%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=black"/>
 
 </p>
