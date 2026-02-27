@@ -53,7 +53,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="163" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FpcDNkOHZ2OHV1a3k1cWhpdXdtaWw4cGNwM2FjYXN1eHBpdTNqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IzGLLA4ZHajTdm/giphy.gif"  />
+  <img height="163" src="https://github.com/Blackmoon390/Blackmoon390/blob/main/wag7.gif"  />
 </div>
 
 ###
@@ -70,5 +70,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blackmoon390/Blackmoon390/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Blackmoon390/Blackmoon390/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
