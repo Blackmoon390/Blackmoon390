@@ -52,27 +52,26 @@ Passionate about building **real-world AI systems** using Deep Learning, Compute
 
 ---
 
-## 🧠 Coding Profiles
+## ⚡ Skills & Expertise
 
-<div align="center">
+<p align="center">
 
-### 🟡 LeetCode
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap"/>
+<!-- Python -->
+<img src="https://progress-bar.dev/92/?scale=100&title=Python&width=500&color=babaca&suffix=%" />
 
-### 🔵 Kaggle
-<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
-  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+<!-- Computer Vision -->
+<img src="https://progress-bar.dev/90/?scale=100&title=Computer%20Vision&width=500&color=babaca&suffix=%" />
 
-</div>
+<!-- Deep Learning -->
+<img src="https://progress-bar.dev/85/?scale=100&title=Deep%20Learning&width=500&color=babaca&suffix=%" />
 
----
+<!-- OpenCV -->
+<img src="https://progress-bar.dev/88/?scale=100&title=OpenCV&width=500&color=babaca&suffix=%" />
 
-## ⚡ Skills Progress (Animated)
+<!-- Embedded AI -->
+<img src="https://progress-bar.dev/75/?scale=100&title=Embedded%20AI&width=500&color=babaca&suffix=%" />
 
-```text
-Computer Vision      ████████████████████ 90%
-Deep Learning        ██████████████████░░ 85%
-Python               ████████████████████ 92%
-Embedded AI          ███████████████░░░░░ 75%
-Model Deployment     ████████████████░░░░ 80%
+<!-- Model Deployment -->
+<img src="https://progress-bar.dev/80/?scale=100&title=Model%20Deployment&width=500&color=babaca&suffix=%" />
+
+</p>
