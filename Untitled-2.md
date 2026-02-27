@@ -3,9 +3,9 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Computer+Vision+Student;Machine+Learning+%26+Rail+Enthusiast)
 
 
-<h1 class="center-heading">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Computer+Vision++Student;Machine+Learning+%26+Rail++Enthusiast" alt="Typing SVG" /></a>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=36&pause=1000&width=700&lines=AI+%26+Computer+Vision+Student;Machine+Learning+%26+Rail+Enthusiast" alt="Typing SVG" />
+</p>
 
 
 ###
