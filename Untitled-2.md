@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&color=6EC9FF&lines=Machine+Learning+Enthusiast;Web+Developer;Exploring+Data+Science" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+%26+Computer+Vision++Student;Machine+Learning+%26+Rail++Enthusiast" alt="Typing SVG" /></a>
 
 ###
 
