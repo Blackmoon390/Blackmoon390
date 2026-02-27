@@ -1,22 +1,101 @@
-Hi 👋 My name is VISHNU S
-=========================
+<h1 align="center">👋 Hi, I'm Vishnu S</h1>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [amsama1134@gmail.com](mailto:amsama1134@gmail.com)
+<h3 align="center">
+🚀 AI & Computer Vision Enthusiast | Deep Learning Builder | Rail Tech Explorer
+</h3>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=32&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Computer+Vision+Student;Machine+Learning+Developer;Building+Real-World+Intelligent+Systems;Embedded+AI+%7C+Edge+Computing+%7C+Automation" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Blackmoon390" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/vis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+## 🧠 About Me
 
-<b>My GitHub Stats</b>
+I am a **passionate AI and Computer Vision student** focused on designing intelligent systems using **Deep Learning, Image Processing, and Embedded AI**.
 
-<a href="http://www.github.com/Blackmoon390"><img src="https://github-readme-stats.vercel.app/api?username=Blackmoon390&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Blackmoon390's GitHub stats" /></a>
+🔹 I enjoy transforming ideas into **real-world applications** — from dataset preparation and model training to deployment on hardware devices.
 
-<a href="http://www.github.com/Blackmoon390"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Blackmoon390&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+🔹 My work combines:
+- 🤖 Machine Learning
+- 👁️ Computer Vision
+- ⚡ Edge AI & Embedded Systems
+- 🚆 Intelligent Detection & Automation Systems
 
-<a href="https://github.com/Blackmoon390" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackmoon390&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+💡 I love building practical solutions that improve **safety, automation, and smart technologies**.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🚀 What I’m Working On
+
+✅ AI-powered detection systems  
+✅ Railway signal computer vision projects  
+✅ YOLO-based real-time object detection  
+✅ Edge AI deployment on embedded devices  
+✅ Smart automation applications
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Computer Vision Architectures
+- Model Optimization & TensorRT
+- Edge AI Deployment
+- Real-Time AI Systems
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vishnu-s-42757a310/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishnu%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🎮 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
+<h3 align="center">⭐ Building Intelligent Systems One Model at a Time</h3>
