@@ -1,61 +1,76 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=VISHNU%20S&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AIML&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<h1 align="center">👋 Hi, I'm Vishnu S</h1>
+
+<h3 align="center">
+🚀 AI & Computer Vision Engineer | Deep Learning Developer | Edge AI Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Blackmoon390">
-    <img src="https://komarev.com/ghpvc/?username=Blackmoon390&label=Profile%20views&color=00FFFF&style=flat-square" alt="Blackmoon390's profile views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Computer+Vision+Student;YOLO+%7C+Deep+Learning+%7C+Embedded+AI;Building+Real-World+Intelligent+Systems;Railway+Vision+AI+Researcher" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
+---
 
-## 🧠 My Focus Areas
-- Aiml
+## 🧠 About Me
 
+Passionate about building **real-world AI systems** using Deep Learning, Computer Vision, and Embedded Intelligence.
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Blackmoon390">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Blackmoon390&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Blackmoon390's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Blackmoon390&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Blackmoon390's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Blackmoon390&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="VISHNU S's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Blackmoon390&theme=tokyonight&radius=10" alt="Blackmoon390's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+🔹 Specialized in **Detection Systems & Edge AI**  
+🔹 End-to-end ML pipeline development  
+🔹 Real-time deployment on hardware devices  
+🔹 Focused on automation & safety applications
 
+---
 
-## 🛠️ Languages & Tools
-
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <a href="https://github.com/Blackmoon390">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Blackmoon390&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/vishnu-s-42757a310/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/9108148778052" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:senseicoder09@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚡ Skills & Expertise
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-92%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-90%25-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-85%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/OpenCV-88%25-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Embedded%20AI-75%25-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Model%20Deployment-80%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+
+</p>
