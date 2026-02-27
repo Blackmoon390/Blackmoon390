@@ -1,8 +1,14 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋I'm Vishnu S</h1>
 
-<p align="center">
+<p align="right">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=36&pause=1000&width=700&lines=AI+%26+Computer+Vision+Student;Machine+Learning+%26+Rail+Enthusiast" alt="Typing SVG" />
 </p>
+
+<h2 align="center">Passionate AI and Computer Vision student focused on building intelligent systems using deep learning, image processing, and embedded AI technologies. Experienced in developing end-to-end projects — from data preprocessing and model training to deployment on real-world hardware.
+
+My work combines machine learning, computer vision, and edge computing to create practical solutions for automation, detection systems, and smart applications.</h2>
+
+
 
 
 ###
