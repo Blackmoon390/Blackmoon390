@@ -4,8 +4,13 @@
 🚀 AI & Computer Vision Engineer | Deep Learning Developer | Edge AI Enthusiast
 </h3>
 
+---
+
+## 🌟 Featured Profile
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Computer+Vision+Student;YOLO+%7C+Deep+Learning+%7C+Embedded+AI;Building+Real-World+Intelligent+Systems;Railway+Vision+AI+Researcher" />
+  <strong>My GitFut profile card is live.</strong><br />
+  Click the badge above to explore my skills, achievements, and GitHub journey.
 </p>
 
 ---
@@ -63,6 +68,11 @@ Passionate about building **real-world AI systems** using Deep Learning, Compute
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackmoon390&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <a href="https://gitfut.com/blackmoon390" title="View my GitFut Card">
+    <img src="https://gitfut.com/blackmoon390.png" alt="GitFut Card" width="320" />
+  </a>
+</p>
 
 ---
 
