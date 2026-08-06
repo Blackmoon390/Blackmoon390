@@ -70,7 +70,7 @@ Passionate about building **real-world AI systems** using Deep Learning, Compute
 
 <p align="center">
   <a href="https://gitfut.com/blackmoon390" title="View my GitFut Card">
-    <img src="https://gitfut.com/blackmoon390.png" alt="GitFut Card" width="320" />
+    <img src="https://gitfut.com/blackmoon390.png" alt="GitFut Card" width="300" />
   </a>
 </p>
 
