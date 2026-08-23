@@ -52,13 +52,10 @@ I work on applied ML systems, model evaluation, and turning experiments into too
 
 ## GitHub Signals
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Blackmoon390&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Vishnu stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackmoon390&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Vishnu top languages"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Blackmoon390&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
 
-## Extras
 
 ### Activity
 
@@ -66,7 +63,8 @@ I work on applied ML systems, model evaluation, and turning experiments into too
 
 ## Quote
 
-> "" I need girlfriend " -vishnu"
+> "" I need girlfriend " 
+>                   "-vishnu"
 
 <div align="center">
 
