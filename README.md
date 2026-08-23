@@ -6,7 +6,11 @@
 
 **AI / ML Engineer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366f1&center=true&vCenter=true&width=640&lines=AI%20%26%20Computer%20Vision%20Engineer;YOLO%20%7C%20Deep%20Learning%20%7C%20Embedded%20AI;Building%20Real-World%20Intelligent%20Systems)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366f1&center=true&vCenter=true&width=900&lines=AI%20%26%20Computer%20Vision%20Engineer;YOLO%20%7C%20Deep%20Learning%20%7C%20Embedded%20AI;Building%20Real-World%20Intelligent%20Systems)](https://git.io/typing-svg)
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-s-42757a310/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:senseicoder09@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://blackmoon390.github.io/Portfolio/)
 
@@ -54,7 +58,11 @@ I work on applied ML systems, model evaluation, and turning experiments into too
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Blackmoon390&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Blackmoon390&theme=github_dark&hide_border=true&card_width=800)](https://git.io/streak-stats)
+
+</div>
 
 
 ### Activity
@@ -68,6 +76,6 @@ I work on applied ML systems, model evaluation, and turning experiments into too
 
 <div align="center">
 
-<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](https://blackmoon390.github.io/Portfolio/)</sub>
+<sub>[Get in touch](https://blackmoon390.github.io/Portfolio/)</sub>
 
 </div>
