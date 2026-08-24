@@ -61,8 +61,7 @@ I work on applied ML systems, model evaluation, and turning experiments into too
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Blackmoon390&theme=github_dark&hide_border=true&card_width=800)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Blackmoon390&theme=burnt-neon&hide_border=true&locale=ta&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Blackmoon390&theme=burnt-neon)](https://git.io/streak-stats)
 </div>
 
 
