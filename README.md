@@ -69,7 +69,7 @@ I work on applied ML systems, model evaluation, and turning experiments into too
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Blackmoon390&theme=github-dark&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=Blackmoon390&theme=github-dark&hide_border=true&area=true)
 
-
+[![Vishnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Blackmoon390&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Quote
 
